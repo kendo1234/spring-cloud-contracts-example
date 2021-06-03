@@ -1,4 +1,4 @@
-package consumer;
+package org.springccexample.consumer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpEntity;
